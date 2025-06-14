@@ -1,0 +1,223 @@
+Processed,Method,URI,Flags
+true,GET,http://google-gruyere.appspot.com,Seed
+true,GET,http://google-gruyere.appspot.com/robots.txt,Seed
+true,GET,http://google-gruyere.appspot.com/sitemap.xml,Seed
+true,GET,http://google-gruyere.appspot.com/,
+true,GET,http://google-gruyere.appspot.com/part1,
+true,GET,http://google-gruyere.appspot.com/part2,
+true,GET,http://google-gruyere.appspot.com/part3,
+true,GET,http://google-gruyere.appspot.com/part4,
+true,GET,http://google-gruyere.appspot.com/0,
+true,GET,http://google-gruyere.appspot.com/part5,
+true,GET,http://google-gruyere.appspot.com/1,
+true,GET,http://google-gruyere.appspot.com/2,
+true,GET,http://google-gruyere.appspot.com/static/gruyere.png,
+true,GET,http://google-gruyere.appspot.com/3,
+false,GET,https://portswigger.net/burp/,Out of Scope
+false,GET,https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project,Out of Scope
+false,GET,https://www.google.com/intl/en/policies/terms/,Out of Scope
+false,GET,https://creativecommons.org/licenses/by-nd/3.0/us/,Out of Scope
+false,GET,https://creativecommons.org/licenses/by/3.0/us/,Out of Scope
+true,GET,http://google-gruyere.appspot.com/4,
+true,GET,http://google-gruyere.appspot.com/5,
+true,GET,http://google-gruyere.appspot.com/static/codelab.css,
+true,GET,http://google-gruyere.appspot.com/6,
+true,GET,http://google-gruyere.appspot.com/7,
+true,GET,http://google-gruyere.appspot.com/8,
+true,GET,http://google-gruyere.appspot.com/static/gruyere-78.png,
+true,GET,http://google-gruyere.appspot.com/9,
+true,GET,http://google-gruyere.appspot.com/static/cheese_b.png,
+true,GET,http://google-gruyere.appspot.com/start,
+true,GET,http://google-gruyere.appspot.com/static/cheese_w.png,
+true,GET,http://google-gruyere.appspot.com/resetbutton,
+true,GET,http://google-gruyere.appspot.com/static/cheese_bw.png,
+true,GET,http://google-gruyere.appspot.com/ɡruːˈjɛər/,
+true,GET,http://google-gruyere.appspot.com/code/,
+true,GET,http://google-gruyere.appspot.com/gruyere-code.zip,
+false,GET,https://www.python.org/downloads/,Out of Scope
+true,GET,http://google-gruyere.appspot.com/code/?gruyere.py,
+true,GET,http://google-gruyere.appspot.com/code/?data.py,
+true,GET,http://google-gruyere.appspot.com/code/?gtl.py,
+true,GET,http://google-gruyere.appspot.com/code/?sanitize.py,
+true,GET,http://google-gruyere.appspot.com/code/?resources/feed.gtl,
+false,GET,https://www.google.com/search?q=same+origin+policy,Out of Scope
+true,GET,http://google-gruyere.appspot.com/code/?resources/error.gtl,
+true,GET,http://google-gruyere.appspot.com/static/closed.gif,
+false,GET,https://www.google.com/search?q=XSS+auto+escaping,Out of Scope
+false,GET,https://www.w3.org/TR/html40/index/attributes.html,Out of Scope
+false,GET,https://www.google.com/search?q=sanitize+html,Out of Scope
+true,GET,http://google-gruyere.appspot.com/code/?resources/home.gtl,
+false,GET,https://www.google.com/search?q=all+your+base+are+belong+to+us,Out of Scope
+true,GET,https://google-gruyere.appspot.com/start.,
+true,GET,http://google-gruyere.appspot.com/code/?resources/manage.gtl,
+true,GET,https://google-gruyere.appspot.com/123/,
+false,GET,http://www.json.org/,Out of Scope
+false,GET,https://www.google.com/search?q=utf-7,Out of Scope
+false,GET,https://www.kb.cert.org/vuls/,Out of Scope
+false,GET,https://www.google.com/search?q=understanding+cross-site+scripting,Out of Scope
+true,GET,https://google-gruyere.appspot.com/code/,
+true,GET,http://google-gruyere.appspot.com/code/?resources/menubar.gtl,
+true,GET,https://google-gruyere.appspot.com/gruyere-code.zip.,
+false,GET,https://www.google.com/search?q=least+privileges,Out of Scope
+false,GET,https://www.google.com/search?q=unsafe+string+functions,Out of Scope
+true,GET,https://google-gruyere.appspot.com/gruyere-code.zip,
+false,GET,https://www.google.com/search?q=flowers,Out of Scope
+true,GET,http://google-gruyere.appspot.com/etc.,
+true,GET,http://google-gruyere.appspot.com/code/?resoources/dump.gtl,
+true,GET,https://google-gruyere.appspot.com/123/feed.gtl,
+true,GET,http://google-gruyere.appspot.com/secret.txt,
+false,GET,https://www.google.com/search?q=password+hashing,Out of Scope
+false,GET,https://www.google.com/search?q=choosing+a+good+password,Out of Scope
+true,GET,http://google-gruyere.appspot.com/code/?resources/dump.gtl,
+false,GET,http://google-gruyere.appspot.com./,Out of Scope
+true,GET,http://google-gruyere.appspot.com/secret.txt.,
+false,GET,https://www.google.com/search?q=buffer+overflow,Out of Scope
+false,GET,https://www.google.com/search?q=sql+slammer,Out of Scope
+false,GET,https://www.google.com/search?q=blaster+worm,Out of Scope
+false,GET,https://www.google.com/search?q=code+red+worm,Out of Scope
+false,GET,https://www.google.com/search?q=integer+overflow+vulnerability,Out of Scope
+false,GET,https://www.google.com/search?q=sql+injection,Out of Scope
+false,GET,https://xkcd.com/327/,Out of Scope
+true,GET,https://google-gruyere.appspot.com/123/quitserver.,
+false,GET,https://www.google.com/search?q=fuzz+testing,Out of Scope
+false,GET,https://security.googleblog.com/,Out of Scope
+false,GET,https://www.google.com/about/appsecurity/,Out of Scope
+true,GET,https://google-gruyere.appspot.com/,
+true,GET,http://google-gruyere.appspot.com/code/?resources/editprofile.gtl,
+false,GET,https://www.google.com/search?q=http+cookies,Out of Scope
+false,GET,https://svn.python.org/projects/python/trunk/Objects/stringobject.c,Out of Scope
+false,GET,https://www.google.com/search?q=preventing+(XSRF+OR+CSRF),Out of Scope
+false,GET,https://www.google.com/search?q=%22defense+in+depth%22+security,Out of Scope
+false,GET,https://www.google.com/search?q=%22cross+site+script+inclusion%22,Out of Scope
+false,GET,https://www.google.com/search?q=E4X+markup+security,Out of Scope
+true,GET,http://google-gruyere.appspot.com/quit,
+true,GET,http://google-gruyere.appspot.com/quitserver.,
+true,GET,http://google-gruyere.appspot.com/Applications/Google%5C,
+true,GET,http://google-gruyere.appspot.com/quitserver,
+true,GET,http://google-gruyere.appspot.com/opt/google/chrome/google-chrome,
+true,GET,https://google-gruyere.appspot.com/123/RESET.,
+true,GET,http://google-gruyere.appspot.com/gtl.py,
+true,GET,http://google-gruyere.appspot.com/static/gruyere-badge.png,
+true,GET,http://google-gruyere.appspot.com/static/gruyere-40.png,
+true,GET,http://google-gruyere.appspot.com/deletesnippet,
+false,GET,https://evil.example.com./,Out of Scope
+false,GET,https://www.google.com/search?q=preventing+,Out of Scope
+true,GET,http://google-gruyere.appspot.com/x,
+true,GET,http://google-gruyere.appspot.com/*,
+true,GET,"http://google-gruyere.appspot.com/,",
+true,GET,http://google-gruyere.appspot.com/676738738190794383594449073024024058201,
+true,GET,https://google-gruyere.appspot.com/123/saveprofile?action=update&is_admin=True,
+true,GET,https://google-gruyere.appspot.com/123/saveprofile?action=update&is_admin=True&uid=username,
+false,GET,https://www.evil.example.com./,Out of Scope
+false,GET,https://www.blogger.com/deleteblog.do?blogId=alice,Out of Scope
+true,GET,http://google-gruyere.appspot.com/static/codeindex/html,
+true,GET,http://google-gruyere.appspot.com/code/data.py,
+true,GET,http://google-gruyere.appspot.com/static/codeindex.html,
+true,GET,http://google-gruyere.appspot.com/code/sanitize.py,
+false,GET,https://www.w3.org/TR/html4/frameset.dtd,Out of Scope
+true,GET,http://google-gruyere.appspot.com/code/resources/home.gtl,
+true,GET,http://google-gruyere.appspot.com/code/resources/feed.gtl,
+true,GET,http://google-gruyere.appspot.com/code/resources/error.gtl,
+true,GET,http://google-gruyere.appspot.com/code/gruyere.py,
+true,GET,http://google-gruyere.appspot.com/code/resources/menubar.gtl,
+true,GET,http://google-gruyere.appspot.com/code/resources/manage.gtl,
+true,GET,http://google-gruyere.appspot.com/code/gtl.py,
+true,GET,http://google-gruyere.appspot.com/code/resources/dump.gtl,
+true,GET,https://google-gruyere.appspot.com/start,
+true,GET,http://google-gruyere.appspot.com/code/resources/editprofile.gtl,
+true,GET,https://google-gruyere.appspot.com/static/codeindex/html,
+true,GET,https://google-gruyere.appspot.com/part1,
+true,GET,https://google-gruyere.appspot.com/static/codeindex.html,
+true,GET,https://google-gruyere.appspot.com/part2,
+true,GET,http://google-gruyere.appspot.com/code/secret.txt,
+true,GET,https://google-gruyere.appspot.com/part3,
+true,GET,http://google-gruyere.appspot.com/code/resources/base.css,
+true,GET,https://google-gruyere.appspot.com/part4,
+true,GET,http://google-gruyere.appspot.com/code/resources/lib.js,
+true,GET,https://google-gruyere.appspot.com/part5,
+true,GET,http://google-gruyere.appspot.com/code/resources/login.gtl,
+true,GET,https://google-gruyere.appspot.com/static/gruyere.png,
+true,GET,http://google-gruyere.appspot.com/code/resources/newaccount.gtl,
+true,GET,http://google-gruyere.appspot.com/676738738190794383594449073024024058201/,
+true,GET,https://google-gruyere.appspot.com/static/codelab.css,
+true,GET,http://google-gruyere.appspot.com/code/resources/newsnippet.gtl,
+true,GET,https://google-gruyere.appspot.com/static/gruyere-78.png,
+true,GET,http://google-gruyere.appspot.com/code/resources/showprofile.gtl,
+true,GET,https://google-gruyere.appspot.com/676738738190794383594449073024024058201,
+true,GET,http://google-gruyere.appspot.com/code/resources/snippets.gtl,
+true,GET,https://google-gruyere.appspot.com/static/cheese_b.png,
+true,GET,http://google-gruyere.appspot.com/code/resources/upload.gtl,
+true,GET,http://google-gruyere.appspot.com/code/resources/upload2.gtl,
+true,GET,https://google-gruyere.appspot.com/static/cheese_w.png,
+true,GET,https://google-gruyere.appspot.com/resetbutton/676738738190794383594449073024024058201,
+true,GET,https://google-gruyere.appspot.com/static/cheese_bw.png,
+true,GET,https://google-gruyere.appspot.com/ɡruːˈjɛər/,
+true,GET,https://google-gruyere.appspot.com/code/?gruyere.py,
+true,GET,https://google-gruyere.appspot.com/code/?data.py,
+true,GET,https://google-gruyere.appspot.com/code/?gtl.py,
+true,GET,https://google-gruyere.appspot.com/code/?sanitize.py,
+true,GET,https://google-gruyere.appspot.com/code/?resources/feed.gtl,
+true,GET,https://google-gruyere.appspot.com/static/closed.gif,
+true,GET,https://google-gruyere.appspot.com/code/?resources/editprofile.gtl,
+true,GET,https://google-gruyere.appspot.com/code/?resources/error.gtl,
+true,GET,https://google-gruyere.appspot.com/code/?resources/home.gtl,
+true,GET,https://google-gruyere.appspot.com/deletesnippet,
+true,GET,https://google-gruyere.appspot.com/x,
+true,GET,https://google-gruyere.appspot.com/*,
+true,GET,"https://google-gruyere.appspot.com/,",
+true,GET,https://google-gruyere.appspot.com/676738738190794383594449073024024058201/feed.gtl,
+true,GET,https://google-gruyere.appspot.com/code/?resources/manage.gtl,
+true,GET,https://google-gruyere.appspot.com/code/?resources/menubar.gtl,
+true,GET,https://google-gruyere.appspot.com/676738738190794383594449073024024058201/saveprofile?action=update&is_admin=True,
+true,GET,https://google-gruyere.appspot.com/676738738190794383594449073024024058201/saveprofile?action=update&is_admin=True&uid=username,
+true,GET,https://google-gruyere.appspot.com/etc.,
+true,GET,https://google-gruyere.appspot.com/secret.txt,
+false,GET,https://google-gruyere.appspot.com./,Out of Scope
+true,GET,https://google-gruyere.appspot.com/Applications/Google%5C,
+true,GET,https://google-gruyere.appspot.com/secret.txt.,
+true,GET,https://google-gruyere.appspot.com/opt/google/chrome/google-chrome,
+true,GET,https://google-gruyere.appspot.com/676738738190794383594449073024024058201/quitserver.,
+true,GET,https://google-gruyere.appspot.com/quit,
+true,GET,https://google-gruyere.appspot.com/quitserver.,
+true,GET,https://google-gruyere.appspot.com/quitserver,
+true,GET,https://google-gruyere.appspot.com/676738738190794383594449073024024058201/RESET.,
+true,GET,https://google-gruyere.appspot.com/gtl.py,
+true,GET,https://google-gruyere.appspot.com/code/?resoources/dump.gtl,
+true,GET,https://google-gruyere.appspot.com/code/?resources/dump.gtl,
+true,GET,http://google-gruyere.appspot.com/676738738190794383594449073024024058201/login,
+true,GET,http://google-gruyere.appspot.com/676738738190794383594449073024024058201/newaccount.gtl,
+true,GET,http://google-gruyere.appspot.com/676738738190794383594449073024024058201/snippets.gtl?uid=cheddar,
+true,GET,https://google-gruyere.appspot.com/static/gruyere-badge.png,
+false,GET,https://images.google.com/?q=cheddar+cheese,Out of Scope
+true,GET,http://google-gruyere.appspot.com/676738738190794383594449073024024058201/snippets.gtl?uid=brie,
+true,GET,https://google-gruyere.appspot.com/static/gruyere-40.png,
+false,GET,https://news.google.com/news/search?q=brie,Out of Scope
+true,GET,http://google-gruyere.appspot.com/676738738190794383594449073024024058201/lib.js,
+true,GET,https://google-gruyere.appspot.com/code/gruyere.py,
+true,GET,https://google-gruyere.appspot.com/code/data.py,
+true,GET,https://google-gruyere.appspot.com/code/sanitize.py,
+true,GET,https://google-gruyere.appspot.com/code/gtl.py,
+true,GET,https://google-gruyere.appspot.com/code/secret.txt,
+true,GET,https://google-gruyere.appspot.com/code/resources/base.css,
+false,GET,https://www.google.com/recaptcha/api.js,Out of Scope
+true,GET,https://google-gruyere.appspot.com/code/resources/dump.gtl,
+true,GET,https://google-gruyere.appspot.com/code/resources/editprofile.gtl,
+true,GET,https://google-gruyere.appspot.com/code/resources/error.gtl,
+true,GET,https://google-gruyere.appspot.com/code/resources/feed.gtl,
+true,GET,https://google-gruyere.appspot.com/code/resources/home.gtl,
+true,GET,https://google-gruyere.appspot.com/code/resources/lib.js,
+true,GET,https://google-gruyere.appspot.com/code/resources/login.gtl,
+true,GET,https://google-gruyere.appspot.com/code/resources/manage.gtl,
+true,GET,https://google-gruyere.appspot.com/code/resources/menubar.gtl,
+true,GET,https://google-gruyere.appspot.com/code/resources/newaccount.gtl,
+true,GET,https://google-gruyere.appspot.com/code/resources/newsnippet.gtl,
+true,GET,https://google-gruyere.appspot.com/code/resources/showprofile.gtl,
+true,POST,https://google-gruyere.appspot.com/resetbutton/676738738190794383594449073024024058201,
+true,GET,https://google-gruyere.appspot.com/code/resources/snippets.gtl,
+true,GET,https://google-gruyere.appspot.com/code/resources/upload.gtl,
+true,GET,https://google-gruyere.appspot.com/code/resources/upload2.gtl,
+true,GET,https://google-gruyere.appspot.com/676738738190794383594449073024024058201/,
+true,GET,https://google-gruyere.appspot.com/676738738190794383594449073024024058201/login,
+true,GET,https://google-gruyere.appspot.com/676738738190794383594449073024024058201/newaccount.gtl,
+true,GET,http://google-gruyere.appspot.com/676738738190794383594449073024024058201/login?pw=ZAP&uid=ZAP,
+true,GET,http://google-gruyere.appspot.com/676738738190794383594449073024024058201/saveprofile?action=new&is_author=True&pw=ZAP&uid=ZAP,
